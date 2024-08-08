@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: grey;
+}
+
+h1{
+  background-color: black;
+  color: orange;
+}
+
+.img{
+  width: 40%;
+}
+
+h2{
+  background-color: black;
+  color:yellow;
+  
+}
+
+#p{
+  color: white;
+}
+
+#p2{
+  color: white;
+  text-align: center;
+}
